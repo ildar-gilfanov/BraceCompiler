@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "cllvm",
+        "repositoryURL": "https://github.com/llvm-swift/cllvm.git",
+        "state": {
+          "branch": "master",
+          "revision": "e3b750e75df1c33ddb1e1d391c6c78640baf404f",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
